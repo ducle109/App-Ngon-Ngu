@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App 言語</string>
+    <string name="txt_address">住所</string>
+    <string name="txt_email">メール</string>
+    <string name="txt_infomaiton">ユーザー情報</string>
+    <string name="btn_confirm">確認</string>
+    <string name="txt_phone">電話番号</string>
+    <string name="txt_userName">氏名</string>
+    <string name="text_address">住所</string>
+    <string name="text_email">メール</string>
+    <string name="text_hello">こんにちは！</string>
+    <string name="text_phone">電話番号</string>
+</resources>
